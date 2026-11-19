@@ -2,7 +2,7 @@
 
 **A business intelligence portfolio case study exploring appointment attendance, clinician scheduling patterns, and telehealth utilization using synthetic behavioral health data.**
 
-[**Open the interactive dashboard**](behavioral_health_dashboard.html) · [View SQL analysis](behavioral_health_analysis.sql) · [Explore sample data](behavioral_health_appointments_synthetic.csv)
+[**Open the interactive dashboard**](https://amiller8830.github.io/Behavioral-Health-Analytics-/behavioral_health_dashboard.html)· [Explore sample data](behavioral_health_appointments_synthetic.csv)
 
 > **Portfolio note:** This is an independently presented **learning project built with AI assistance**. All 300 appointment records are fictional; no real patient or protected health information is used. This project is not affiliated with a healthcare provider or TherapyNotes.
 
